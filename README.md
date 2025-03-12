@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Michael Francoo  
 
-🚀 Aspiring Full-Stack Web Developer | ICT Diploma Student  
+🚀 Aspiring Full-Stack Web Developer   
 
 I’m currently pursuing an ICT Diploma while following my Tech Mastery Roadmap to become a skilled Full-Stack Web Developer. Passionate about **Web Development, Frontend & Backend Technologies, and Real-World Projects.  
 
